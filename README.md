@@ -1,0 +1,2 @@
+# SeppelCrypt
+Dumb encryption algorithm.
