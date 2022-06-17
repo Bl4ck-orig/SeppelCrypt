@@ -1,2 +1,3 @@
 # SeppelCrypt
-Dumb encryption algorithm.
+
+Dumb encryption / decryption algorithm.
